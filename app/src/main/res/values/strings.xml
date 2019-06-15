@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Task</string>
+
+    <!--map-->
+    <string name="google_place_apikey">AIzaSyAH7EAelEsdgxiU05317YEsumYnZ8X412k</string>
+
+    <!--My products activity-->
+    <string name="my_products">My Products</string>
+    <string name="add_to_basket">Add to basket</string>
+    <string name="added">Product has been added</string>
+    <string name="add_basket_error">Please select amount for product</string>
+    <string name="basket">Basket</string>
+
+    <!--Main activity-->
+    <string name="home">Home</string>
+    <string name="sql">SQLite</string>
+    <string name="countries">Countries</string>
+    <string name="contacts">Contacts</string>
+    <string name="add_event">Add Event</string>
+
+    <string name="map">Map</string>
+
+    <string name="permission_warning">Please allow Permission</string>
+    <string name="map_warning">Please note that to search for places in application we have to use google places API which requires Credit card info.</string>
+    <string name="google_maps">Google maps</string>
+    <string name="in_app">In App</string>
+
+    <!--Basket activity-->
+    <string name="quantity">Quantity</string>
+    <string name="my_basket">My Basket</string>
+    <string name="empty_basket">Your basket is empty!</string>
+    <string name="clear_basket">Clear Basket</string>
+    <string name="clear_warning">Are you sure you want to clear your basket?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!--Countries Activity-->
+    <string name="search_hint">Enter Country name here</string>
+    <string name="internet_error">No Internet Connection</string>
+    <string name="api_error">Error in service, please try again later</string>
+
+    <!--Login Activity-->
+    <string name="facebook_app_id">472353520020222</string>
+    <string name="login_fb">Login with FaceBook</string>
+    <string name="remember_me">Remember Me</string>
+
+    <!--Add Event Activity-->
+    <string name="select_date">Select Date</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_desc">Enter Description</string>
+
+
+</resources>

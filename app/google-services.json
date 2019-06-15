@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1039876531557",
+    "firebase_url": "https://g2m-task.firebaseio.com",
+    "project_id": "g2m-task",
+    "storage_bucket": "g2m-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039876531557:android:c11907ede315cab6",
+        "android_client_info": {
+          "package_name": "com.mo.essam.testtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039876531557-6ell00h85t6q0to1lnmj16ch3ua476s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUnUdEFcm8PvId8rMJ8MbRpvcM6P94Dp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039876531557-6ell00h85t6q0to1lnmj16ch3ua476s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
